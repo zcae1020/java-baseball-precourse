@@ -128,3 +128,14 @@
 ## 📝 License
 
 This project is [MIT](https://github.com/woowacourse/java-baseball-precourse/blob/master/LICENSE) licensed.
+
+<br>
+
+---
+
+## 👌 필요 기능
+
+- 입출력
+- random number 생성
+- answer와 input 비교
+- restart
